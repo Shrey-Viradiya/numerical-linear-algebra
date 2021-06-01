@@ -1,2 +1,4 @@
 nbs/.ipynb_checkpoints
 nbs/env
+nbs/data
+low_res_surveillance_matrix.npy
